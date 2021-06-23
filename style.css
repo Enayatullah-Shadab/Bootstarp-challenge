@@ -1,0 +1,24 @@
+.container{
+    text-align: center;
+    border: 1px solid black;
+}
+.mn{
+    background-color: rgb(89, 89, 230);
+}
+.d-flex{
+    display: flex;
+}
+.ft{
+    background-color: lightgray;
+    margin: 0;
+}
+.bk{
+    background-color: white;
+    margin: 15px;
+}
+.nomargin{
+    margin-block: 0;
+}
+.hdr{
+    background: white;
+}
